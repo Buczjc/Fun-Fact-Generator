@@ -1,0 +1,151 @@
+[{
+    "id": 1,
+    "facts_about": "Hello World!",
+    "facts": "The first program many programmers write is simply one that prints 'Hello, World!' on the screen."
+},
+{
+    "id": 2,
+    "facts_about": "Bug Origins",
+    "facts": "The term \"bug\" in programming dates back to 1947 when a moth was found causing problems in a computer at Harvard."
+},
+{
+    "id": 3,
+    "facts_about": "Python's Namesake",
+    "facts": "The Python programming language is named after the British comedy series \"Monty Python's Flying Circus,\" not the snake."
+},
+{
+    "id": 4,
+    "facts_about": "First Programmer",
+    "facts": "Ada Lovelace is considered the first computer programmer; she wrote an algorithm for Charles Babbage's early mechanical computer."
+},
+{
+    "id": 5,
+    "facts_about": "Whitespace Language",
+    "facts": "There's a programming language called Whitespace that uses only spaces, tabs, and newlines for its syntax."
+},
+{
+    "id": 6,
+    "facts_about": "Coding in Space",
+    "facts": "NASA's Apollo Guidance Computer, which helped land astronauts on the moon, had less computing power than a modern smartphone."
+},
+{
+    "id": 7,
+    "facts_about": "Joke Language",
+    "facts": "LOLCODE is a programming language inspired by the language of \"LOLCats\" internet memes."
+},
+{
+    "id": 8,
+    "facts_about": "Automatic Code Generation",
+    "facts": "The first high-level programming language, Fortran, was designed to automatically generate assembly code."
+},
+{
+    "id": 9,
+    "facts_about": "Hackathons",
+    "facts": "\"Hackathon\" is a portmanteau of \"hack\" and \"marathon,\" where programmers work intensively on software projects over a short period."
+},
+{
+    "id": 10,
+    "facts_about": "First Compiler",
+    "facts": "Grace Hopper, known as the \"Mother of Computing,\" developed the first compiler, which translates high-level language to machine code."
+},
+{
+    "id": 11,
+    "facts_about": "Java Name",
+    "facts": "Java, originally called Oak, was renamed after the developers drank lots of coffee while brainstorming a name."
+},
+{
+    "id": 12,
+    "facts_about": "Open Source",
+    "facts": "Linux, one of the most popular operating systems, was created by Linus Torvalds and is open-source, meaning its source code is freely available."
+},
+{
+    "id": 13,
+    "facts_about": "40-Year-Old Code",
+    "facts": " The \"Y2K bug\" was caused by programmers using two digits for the year in date formats, which led to fears of systems failing at the turn of the millennium."
+},
+{
+    "id": 14,
+    "facts_about": "Code Poetry",
+    "facts": "There’s a form of creative writing called \"code poetry,\" where programming languages are used to write poems."
+},
+{
+    "id": 15,
+    "facts_about": "First Video Game",
+    "facts": "The first known video game, \"Spacewar!,\" was created by MIT students in 1962."
+},
+{
+    "id": 16,
+    "facts_about": "Most Popular Language",
+    "facts": "As of 2024, JavaScript remains one of the most popular programming languages globally."
+},
+{
+    "id": 17,
+    "facts_about": "Null Origin",
+    "facts": "The concept of \"null\" in programming was invented by Tony Hoare, who later called it a \"billion-dollar mistake.\""
+},
+{
+    "id": 18,
+    "facts_about": "Longest Word",
+    "facts": "The longest word you can type with just your left hand on a QWERTY keyboard is \"stewardesses.\""
+},
+{
+    "id": 19,
+    "facts_about": "Malbolge",
+    "facts": "Malbolge is a programming language designed to be as difficult as possible to program in, taking two years to write the first valid program."
+},
+{
+    "id": 20,
+    "facts_about": "Cowsay",
+    "facts": "Cowsay is a program that generates ASCII pictures of a cow with a speech bubble, often used as a joke among programmers."
+},
+{
+    "id": 21,
+    "facts_about": "Command Line Art",
+    "facts": "ASCII art, creating pictures out of text characters, has a long history in programming, especially in the command line."
+},
+{
+    "id": 22,
+    "facts_about": "Go Language",
+    "facts": "Google's Go language, also known as Golang, was designed to be simple yet powerful, with fast compilation."
+},
+{
+    "id": 23,
+    "facts_about": "404 Error",
+    "facts": "The \"404 Not Found\" error was named after a room at CERN where the original web server was located."
+},
+{
+    "id": 24,
+    "facts_about": "Zero Indexing",
+    "facts": "Many programming languages start arrays with an index of 0 instead of 1, a practice originating from C language."
+},
+{
+    "id": 25,
+    "facts_about": "CoffeeScript",
+    "facts": "CoffeeScript is a language that compiles into JavaScript and is known for making JavaScript easier to read and write."
+},
+{
+    "id": 26,
+    "facts_about": "BASIC Language",
+    "facts": "BASIC, an early programming language, was designed to be simple enough for beginners, leading to its name \"Beginner's All-purpose Symbolic Instruction Code.\""
+},
+{
+    "id": 27,
+    "facts_about": "Daily Git Commits",
+    "facts": "Some developers practice \"the streak,\" where they commit code to a project every day without missing a day."
+},
+{
+    "id": 28,
+    "facts_about": "World's First Website",
+    "facts": "The first website ever created is still online and was created by Tim Berners-Lee in 1991."
+},
+{
+    "id": 29,
+    "facts_about": "Pair Programming",
+    "facts": "Pair programming is a technique where two programmers work together at one workstation, with one writing code and the other reviewing it in real-time."
+},
+{
+    "id": 30,
+    "facts_about": "Rubber Duck Debugging",
+    "facts": "\"Rubber duck debugging\" is a method where programmers explain their code to a rubber duck or other inanimate object to find errors."
+}
+]
