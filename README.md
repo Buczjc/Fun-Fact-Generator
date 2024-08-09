@@ -12,3 +12,5 @@ Welcome to the **Fun-Fact Generator**! This simple web application generates ran
 1. The fun facts are stored in a local `facts.json` file.
 2. When the user clicks the "Generate" button, an AJAX request is made to fetch a random fact from the JSON file.
 3. The fetched fact is then displayed in the center of the screen.
+
+![img-of-the-probram](https://github.com/user-attachments/assets/c77d77ea-10dc-4363-a383-2a77271e9cca)
